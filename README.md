@@ -1,5 +1,5 @@
 # cshell
-cshell is a simple script which spawning bash shell for root privileges.
+cshell is a simple c language script which spawning bash shell for root privileges.
 
 Compile: gcc cshell.c -o cshell
 
